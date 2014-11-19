@@ -15,5 +15,5 @@ All my configuration
 
 
 
-###### ＃資料來源：<br/>
-*[Bash Shell 使用環境](http://dywang.csie.cyut.edu.tw/moodle23/dywang/linuxSystem/node90.html)
+###### ＃資料來源：
+[Bash Shell 使用環境](http://dywang.csie.cyut.edu.tw/moodle23/dywang/linuxSystem/node90.html)
